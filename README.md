@@ -1,4 +1,4 @@
-# prueba-readme
+# prueba-readme --camilo avila
 
 # asi es como se creo un redmi
 
@@ -10,4 +10,4 @@
 
 12345
 
-## actualizacion diego 
+## actualizacion diego
