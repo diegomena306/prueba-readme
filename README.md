@@ -6,13 +6,8 @@
 
 # prueba-readme diego
 
-<<<<<<< HEAD
-
-> > > > > > > 2f2e94dae10ffd88ad97e7f912713ab395be907e
-
 # asi es como se creo un redmi otra vez
 
-> > > > > > > e5793a7ef7ab5356aa0ac9724a80280ef423b0fa
 
 ## ahora bamos a actualizar
 
